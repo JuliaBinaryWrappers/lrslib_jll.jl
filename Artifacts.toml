@@ -1,115 +1,115 @@
 [[lrslib]]
 arch = "aarch64"
-git-tree-sha1 = "f63908012def8a8a02926799ec136f3ceabfa4e7"
+git-tree-sha1 = "147e970affa291962652d2214c375de307eec540"
 libc = "glibc"
 os = "linux"
 
     [[lrslib.download]]
-    sha256 = "ce8a7f6537279bbae4de543a662ea2a13c018cfc2e854126fe0bbbbb014ca220"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "7ab4b11a8ba86658d21a9bebfed51a99390ffe4d57d311055e064bbff012c003"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.aarch64-linux-gnu.tar.gz"
 [[lrslib]]
 arch = "aarch64"
-git-tree-sha1 = "743c3d885cfc4843b87ab182ac050aabd1abefb9"
+git-tree-sha1 = "89607277b374739c8c8317343dfe87187d940e6e"
 libc = "musl"
 os = "linux"
 
     [[lrslib.download]]
-    sha256 = "416175f9fe3615083366f1a7d7c7df85d1ba35133faa12c995b22a23d90d81bd"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.aarch64-linux-musl.tar.gz"
+    sha256 = "8b50acbced2fc95849379b1a24361db10b14ebc92ce2a55b252479532bbe8ce5"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.aarch64-linux-musl.tar.gz"
 [[lrslib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c461de0b7d2cc34af1f012ce428b8abc78efa0eb"
+git-tree-sha1 = "acb422fcdf7800873bb7c8461b251cf4f2e6f394"
 libc = "glibc"
 os = "linux"
 
     [[lrslib.download]]
-    sha256 = "e5052b69149ce8dcedaf6ad1d15f74f1d2479d8565b17ea7c646d32523332b59"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "2560e310952c145e8f85cae6009542308104625798b0e903eca3026eae48afb4"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.armv7l-linux-gnueabihf.tar.gz"
 [[lrslib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "6ddc0307d315e437eb2cd5546dc293b8171193db"
+git-tree-sha1 = "9085e74c68dd377005320e46115d103fafb8672a"
 libc = "musl"
 os = "linux"
 
     [[lrslib.download]]
-    sha256 = "885a96e7b268c29b7517776d585e6ecd135dcd8d88fd9e217098e325523f3321"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "fd54fbafd1c891a4710998afb777dff05fa1182c8a0091a5606e0f461023c6f0"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.armv7l-linux-musleabihf.tar.gz"
 [[lrslib]]
 arch = "i686"
-git-tree-sha1 = "2642f9b1eea4cec1775fef8be0a68ecb60b0f215"
+git-tree-sha1 = "568874b8332004997a3903d8148bcb89d545bd5d"
 libc = "glibc"
 os = "linux"
 
     [[lrslib.download]]
-    sha256 = "5dad3b970fb57ed4f84429a5f0c2ef7505e7811828da4da1d0f0154ab6244937"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.i686-linux-gnu.tar.gz"
+    sha256 = "0ed9d8ddeed356a35affe848bf6b95a3a394f8dcae0907ccabc06386e90f4862"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.i686-linux-gnu.tar.gz"
 [[lrslib]]
 arch = "i686"
-git-tree-sha1 = "f44e53ee2f25064570901fc614d733bf261d5a19"
+git-tree-sha1 = "c3056c8db9a1bd705338c5d21099f982f8991ef9"
 libc = "musl"
 os = "linux"
 
     [[lrslib.download]]
-    sha256 = "8ff95450ee436f70618943ad89f6e670abdae2a5aabda12203bd67158b5e185a"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.i686-linux-musl.tar.gz"
+    sha256 = "704b75698f5e4b5b23599028b04f58c7078954c29e48621fc31b4d4d84671cc3"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.i686-linux-musl.tar.gz"
 [[lrslib]]
 arch = "i686"
-git-tree-sha1 = "67981e4788edcc9bc0a33a01e81d045f7c364b5b"
+git-tree-sha1 = "eb21422153d17102a6ad1b3b6d8179e1bae5970a"
 os = "windows"
 
     [[lrslib.download]]
-    sha256 = "3ba4f451142a5c5c383832a7dc8fb9feb8c7c8ef77657c49c123bdf045e6773b"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.i686-w64-mingw32.tar.gz"
+    sha256 = "70a668d56eeec5768464aba92d7ca72a56a03cddd1f1a4d2475eadefdaf566a0"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.i686-w64-mingw32.tar.gz"
 [[lrslib]]
 arch = "powerpc64le"
-git-tree-sha1 = "c0ba836a4c9e0351e3ada5ab617cbad3742fef0c"
+git-tree-sha1 = "6f9732240f5985515a3825a08932865445ee7cb2"
 libc = "glibc"
 os = "linux"
 
     [[lrslib.download]]
-    sha256 = "a0828ccdbe4e33543a0b2d20e151c76fa4c8661eb93f415f2312cbf1a416040c"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "a85faad3be387d2b0c0c8f6f3d9b4707f46d3b49c4dc9ea9969f54473f38e423"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.powerpc64le-linux-gnu.tar.gz"
 [[lrslib]]
 arch = "x86_64"
-git-tree-sha1 = "e449e575ab04b1a5872699a45a5781e324218b20"
+git-tree-sha1 = "799ffd678078a3fbb16bbafe54e3e6c1e702d41e"
 os = "macos"
 
     [[lrslib.download]]
-    sha256 = "1281e14ba100aa60c83cef3dd683fba0749d8c99d59a7d542b1e695026dc35dc"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "69140e6339c4e36e63883a8770610d2efc370d61511e9ec2d406da4612ab67e6"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.x86_64-apple-darwin.tar.gz"
 [[lrslib]]
 arch = "x86_64"
-git-tree-sha1 = "9b129209d6ea3f8797eff321f6a1694d08814c51"
+git-tree-sha1 = "803e0d387a4507ef54da2902aa873a9c98bd49f5"
 libc = "glibc"
 os = "linux"
 
     [[lrslib.download]]
-    sha256 = "cb8e3fdb7ed850df40786c0cd91247cf618a9fd1e3b54805af6cfc1379fd5207"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "bd0bcd969cdb2ecbfa36ae1b440c90f092f174390a468ad4a66ac3a5a0547c67"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.x86_64-linux-gnu.tar.gz"
 [[lrslib]]
 arch = "x86_64"
-git-tree-sha1 = "79a5f972a5b043137391e59046ad7b48f8372c97"
+git-tree-sha1 = "0bb3e369dba8149aacf603f536e43a05551ecec5"
 libc = "musl"
 os = "linux"
 
     [[lrslib.download]]
-    sha256 = "c64d5625cd7696f334ff402809e5b412c7a080d6abc198e62cc4fa8c784b912e"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.x86_64-linux-musl.tar.gz"
+    sha256 = "f234b63aeb4a6ba344d0cade95d52f381d4c56e5fb598a268dcd0aed71f1dc80"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.x86_64-linux-musl.tar.gz"
 [[lrslib]]
 arch = "x86_64"
-git-tree-sha1 = "d72b439947ccf327e80b8176b941c420db37dffb"
+git-tree-sha1 = "0cd71a73949cb47fcb71a8200d141692f7806890"
 os = "freebsd"
 
     [[lrslib.download]]
-    sha256 = "29937630507d042abb7822b0a8dba598fedb399281cd8ec64ce203ae27512f7d"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2c378eb223743a102ab3e97e4e0578ab0a45985dcf84121384a52ae6b0e28225"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.x86_64-unknown-freebsd.tar.gz"
 [[lrslib]]
 arch = "x86_64"
-git-tree-sha1 = "f95d8f47f8b94244ad1ed3b7ceada5a67f9d2226"
+git-tree-sha1 = "b6a2f7991824f9a923e66e2c3133ca4388dc6960"
 os = "windows"
 
     [[lrslib.download]]
-    sha256 = "fe64dfd80cfd50ea930a088c0fe8ddc87e59504e01dae9d9555dd707fbff9c8d"
-    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.1+0/lrslib.v0.3.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b974f7b5aad37044190aa607fc53fe6be5d73ca85bb715a0d76aa7298dc5b0d3"
+    url = "https://github.com/JuliaBinaryWrappers/lrslib_jll.jl/releases/download/lrslib-v0.3.2+0/lrslib.v0.3.2.x86_64-w64-mingw32.tar.gz"
